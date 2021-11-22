@@ -2,6 +2,7 @@
 ## GNR638 Project
 ***
 Hey! These are our codes and presentations for the GNR638 Deep Learning project.
+Link : https://drive.google.com/drive/folders/1P1XLD3rbf4yX2ap_VxI0c2Ag_rjM6P9r?usp=sharing
 We have made Arcface, which is the SOTA (State of the Art) face recognition model.<br>
 [Link](https://arxiv.org/pdf/1804.06655.pdf) to paper.<br>
 Links to all videos are present at the end of this document. It is recommended to watch the videos before trying out the code.
